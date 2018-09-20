@@ -1,0 +1,34 @@
+_repo: Laulu-Hiawathasta_53195
+_version: 0.0.1
+alternative_title: The song of Hiawatha. Finnish
+contributor:
+  translator:
+    agent_name: Ollilainen, A. E.
+    gutenberg_agent_id: '47997'
+    url: http://www.gutenberg.org/2009/agents/47997
+creator:
+  author:
+    agent_name: Longfellow, Henry Wadsworth
+    alias: Longfellow, Henry W.
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '16'
+    url: http://www.gutenberg.org/2009/agents/16
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow
+description: ''
+gutenberg_issued: '2016-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53195'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iroquois Indians -- Kings and rulers -- Poetry'
+- !lcsh 'Indians of North America -- Poetry'
+- !lcsh 'Hiawatha, active 15th century -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Laulu Hiawathasta
+url: http://www.gutenberg.org/ebooks/53195
